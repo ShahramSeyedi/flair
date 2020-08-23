@@ -27,7 +27,7 @@ train your own models and experiment with new approaches using Flair embeddings 
 
 Now at [version 0.4.2](https://github.com/zalandoresearch/flair/releases)!
 
-## Comparison with State-of-the-Art
+## Comparison with State-of-the-Art Shahram Seyedi
 
 Flair outperforms the previous best methods on a range of NLP tasks:
 
